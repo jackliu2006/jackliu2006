@@ -54,11 +54,4 @@ I combine **architect-level strategy** with **hands-on engineering skills** to:
 
 ---
 
-## 📫 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📧 [Email](mailto:your.email@example.com)  
-- 🌐 [Portfolio/Website](https://yourwebsite.com)
-
----
-
 ⭐️ *Passionate about designing cloud-native systems that are secure, resilient, and ready for the future.*
