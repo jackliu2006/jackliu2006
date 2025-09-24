@@ -25,12 +25,24 @@ These certifications demonstrate my ability to architect, build, and secure clou
 
 ---
 
+## 🛠️ Software & Tools
+| Category | Technologies |
+|----------|--------------|
+| **Event Streaming & Data** | **Apache Kafka**, Apache Spark, Apache Flink, Azure Event Hubs |
+| **Cloud Platforms** | Microsoft **Azure** (AKS, Functions, App Services, Storage, Networking) |
+| **Container & Orchestration** | **Kubernetes**, Docker, Helm |
+| **Infrastructure as Code** | Terraform, Bicep, ARM Templates |
+| **DevOps & CI/CD** | GitHub Actions, Azure DevOps, Jenkins |
+| **Programming / Scripting** | Python, C#/.NET, Bash |
+| **Observability & Monitoring** | Prometheus, Grafana, Azure Monitor, ELK/EFK |
+
+---
+
 ## 🚀 Technical Strengths
-- Cloud: **Azure**, Azure Kubernetes Service (AKS), Azure Functions, App Services, Storage, Networking
-- Infrastructure as Code: **Terraform**, ARM/Bicep, Helm
-- CI/CD: **GitHub Actions**, Azure DevOps, Jenkins
-- Programming: **Python**, **C#/.NET**, Shell scripting
-- Observability: Prometheus, Grafana, Azure Monitor, ELK
+- Designing **cloud-native**, **microservices-based** architectures for scalability and reliability  
+- Implementing **real-time streaming** solutions with **Kafka** and **Spark**  
+- Building end-to-end CI/CD pipelines for rapid, secure deployments  
+- Driving **DevOps** adoption and infrastructure automation
 
 ---
 
@@ -38,8 +50,8 @@ These certifications demonstrate my ability to architect, build, and secure clou
 I combine **architect-level strategy** with **hands-on engineering skills** to:
 - Build secure, scalable cloud solutions  
 - Modernize applications into **microservice** and **container-based** platforms  
-- Implement **DevOps** culture and automate complex deployments  
-- Integrate real-time event streaming with **Kafka**
+- Integrate real-time event streaming with **Kafka** and **Spark**  
+- Optimize cost, performance, and reliability in cloud environments
 
 ---
 
@@ -50,4 +62,4 @@ I combine **architect-level strategy** with **hands-on engineering skills** to:
 
 ---
 
-⭐️ *I’m passionate about designing cloud-native systems that are secure, resilient, and ready for the future.*
+⭐️ *Passionate about designing cloud-native systems that are secure, resilient, and ready for the future.*
