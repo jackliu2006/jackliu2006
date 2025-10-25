@@ -27,7 +27,7 @@ These certifications demonstrate my ability to architect, build, and secure clou
 ## 🛠️ Software & Tools
 | Category | Technologies |
 |----------|--------------|
-|** Methodology **|--------------|
+| **Methodology**| Cloud Adoption Framework, Well Architected Framework|
 | **Event Streaming & Data** | **Apache Kafka**, Apache Spark, Apache Flink, Azure Event Hubs |
 | **Cloud Platforms** | Microsoft **Azure** (AKS, Functions, App Services, Storage, Networking) |
 | **Container & Orchestration** | **Kubernetes**, Docker, Helm |
