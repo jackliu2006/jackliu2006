@@ -30,9 +30,9 @@ These certifications demonstrate my ability to architect, build, and secure clou
 | **Event Streaming & Data** | **Apache Kafka**, Apache Spark, Apache Flink, Azure Event Hubs |
 | **Cloud Platforms** | Microsoft **Azure** (AKS, Functions, App Services, Storage, Networking) |
 | **Container & Orchestration** | **Kubernetes**, Docker, Helm |
-| **Infrastructure as Code** | Terraform, Bicep, ARM Templates |
+| **Infrastructure as Code** | Terraform, ARM Templates |
 | **DevOps & CI/CD** | GitHub Actions, Azure DevOps, Jenkins |
-| **Programming / Scripting** | Python, C#/.NET, Bash |
+| **Programming / Scripting** | Python, Go, Java, Bash |
 | **Observability & Monitoring** | Prometheus, Grafana, Azure Monitor, ELK/EFK |
 
 ---
